@@ -20,8 +20,12 @@
         "@angular/platform-browser-dynamic": "~11.0.9",
         "@angular/router": "~11.0.9",
         "rxjs": "~6.6.0",
-        "sigma": "^1.2.1",
-        "sigma-webpack": "^1.2.0-1",
+        "sigma": "*",
+        "sigma-webpack": "*",
+        "graphology": "^0.23.0",
+        "graphology-layout-force": "0.2.2",
+        "chroma-js": "^2.1.2",
+    
         "tslib": "^2.0.0",
         "zone.js": "~0.10.2"
     },
